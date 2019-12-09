@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_search"
+        android:title="查找"/>
+
+    <item
+        android:id="@+id/action_insert"
+        android:title="新增"/>
+
+    <item
+        android:id="@+id/action_delete"
+        android:title="删除"/>
+
+    <item
+        android:id="@+id/action_modify"
+        android:title="修改"/>
+    <item
+        android:id="@+id/Search_online"
+        android:title="在线查词"/>
+
+</menu>
